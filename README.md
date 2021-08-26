@@ -4,7 +4,7 @@ I have a passion for seamless UX and clean crisp UI. I utilise **HTML,CSS,Javasc
 
  I as well build Content Management Systems such as **Wordpress, Craft CMS and OpenCart** which enable me to build informational and eCommerce sites with ease.
 
-**SEO** has grown with me as its the next step once the site is completed.
+**SEO** is a skill that I picked up "Hey the sites ready, lets get it some traffic" :)
 
 If I am not developing anything on the web, I'm either gaming or developing games , binging animes,TV Series and geeking out on Marvel,Tolkien and Star Wars.
 
