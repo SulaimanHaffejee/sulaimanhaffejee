@@ -6,6 +6,6 @@ I have a passion for seamless UX and clean crisp UI. I utilise **HTML,CSS,Javasc
 
 **SEO** has grown with me as its the next step once the site is completed.
 
-If I am not developing anything on the web, I'm a gamer and as well develop games on the side, along with anime and geek out on Tolkien lore or Star Wars.
+If I am not developing anything on the web, I'm either gaming or developing games on the side, along with binging animes,TV Series and geek out on Marvel,Tolkien and Star Wars.
 
 
