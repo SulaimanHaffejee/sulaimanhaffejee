@@ -1,4 +1,4 @@
-## Whose that Programmer
+## Whose that Programmer ?
 
 Hi my name is Sulaiman Haffejee, I am a **Frontend Engineer and SEO specialist** with 5 years professional experience currently based in South Africa. 
 
@@ -10,14 +10,14 @@ I have a passion for seamless UX and clean crisp UI. I utilise **HTML,CSS,Javasc
 
 If I am not developing anything on the web, I'm either gaming or developing games , binging animes,TV Series and geeking out on Marvel,Tolkien and Star Wars.
 
-<p align="center">
-  <img width="320" height="auto" src="https://lh3.googleusercontent.com/proxy/IV4lw4AW5BP2V0xbxpfUuWwlI_2EelIMgkkCnfpw_G53gU08goT7zqP0qn5PL_YwxLvqev9bMfd10_w7NP0olC4ybUUzd7w7qGQn7l5sN8hsG49_e4vcHuzuDYHg">
-</p>
-
 ## Connect with me:
 <a href="https://linkedin/in/sulaimanhaffejee">
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
+
+
+
+<br />
 
 
 <br />
@@ -36,4 +36,6 @@ If I am not developing anything on the web, I'm either gaming or developing game
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-
+<p align="right">
+  <img width="220" height="auto" src="https://lh3.googleusercontent.com/proxy/IV4lw4AW5BP2V0xbxpfUuWwlI_2EelIMgkkCnfpw_G53gU08goT7zqP0qn5PL_YwxLvqev9bMfd10_w7NP0olC4ybUUzd7w7qGQn7l5sN8hsG49_e4vcHuzuDYHg">
+</p>
