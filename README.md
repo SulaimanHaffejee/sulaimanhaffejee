@@ -1,6 +1,6 @@
 ## Whose that Programmer ?
 
-Hi my name is Sulaiman Haffejee, I am a **Frontend Engineer and SEO specialist** with 5 years professional experience currently based in South Africa. 
+Hi my name is Sulaiman Haffejee, I am a **Frontend Engineer and SEO specialist** with 5 years professional experience currently based in Msanzi. 
 
 I have a passion for seamless UX and clean crisp UI. I utilise **HTML,CSS,Javascript, Typescript, Angualr and Reactjs** to provide state of the art web applications for my clients.
 
