@@ -11,7 +11,7 @@ I have a passion for seamless UX and clean crisp UI. I utilise **HTML,CSS,Javasc
 If I am not developing anything on the web, I'm either gaming or developing games , binging animes,TV Series and geeking out on Marvel,Tolkien and Star Wars.
 
 ## Connect with me:
-<a href="https://linkedin/in/sulaimanhaffejee">
+<a href="https://linkedin.com/in/sulaimanhaffejee">
 <img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
 
