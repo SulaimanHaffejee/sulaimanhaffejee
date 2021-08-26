@@ -9,6 +9,6 @@ I have a passion for seamless UX and clean crisp UI. I utilise **HTML,CSS,Javasc
 If I am not developing anything on the web, I'm either gaming or developing games on the side, along with binging animes,TV Series and geek out on Marvel,Tolkien and Star Wars.
 
 <p align="center">
-  <img width="320" height="120" src="https://lh3.googleusercontent.com/proxy/IV4lw4AW5BP2V0xbxpfUuWwlI_2EelIMgkkCnfpw_G53gU08goT7zqP0qn5PL_YwxLvqev9bMfd10_w7NP0olC4ybUUzd7w7qGQn7l5sN8hsG49_e4vcHuzuDYHg">
+  <img width="320" height="auto" src="https://lh3.googleusercontent.com/proxy/IV4lw4AW5BP2V0xbxpfUuWwlI_2EelIMgkkCnfpw_G53gU08goT7zqP0qn5PL_YwxLvqev9bMfd10_w7NP0olC4ybUUzd7w7qGQn7l5sN8hsG49_e4vcHuzuDYHg">
 </p>
 
